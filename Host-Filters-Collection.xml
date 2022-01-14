@@ -141,13 +141,6 @@
 		<licence>CC0</licence>
 	</filter>
 	<filter>
-		<name>Yoyo filter</name>
-		<description>Blocklist for use with hosts files to block ads, trackers, and other nasty things.</description>
-		<path>https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0</path>
-		<update>occasionally</update>
-		<licence>MIT</licence>
-	</filter>
-	<filter>
 		<name>Gambling filter</name>
 		<description>Additional sketch domains as I come across them.</description>
 		<path>https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts</path>
