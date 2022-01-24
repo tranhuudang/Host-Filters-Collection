@@ -8,6 +8,13 @@
 		<licence>MIT</licence>
 	</filter>
 	<filter>
+		<name>Vietnamese Adblock Filter</name>
+		<description>Hosts chặn quảng cáo của người Việt</description>
+		<path>https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts</path>
+		<update>monthly</update>
+		<licence>MIT</licence>
+	</filter>
+	<filter>
 		<name>Steven Black filter</name>
 		<description>Additional sketch domains as Steven Black comes across them.</description>
 		<path>https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts</path>
